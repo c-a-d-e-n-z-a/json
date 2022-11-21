@@ -1,0 +1,758 @@
+{
+  "stock":[
+    {
+      "ticker":"^TWII",
+      "description":"台灣加權",
+      "priceCeiling":12000,
+      "priceFloor":9500
+    },
+    {
+      "ticker":"^TWOII",
+      "description":"台灣店頭",
+      "priceCeiling":180,
+      "priceFloor":120
+    },
+    {
+      "ticker":"^TNX",
+      "description":"Treasury Yield 10 Years",
+      "priceCeiling":3,
+      "priceFloor":1
+    },
+    {
+      "ticker":"JPY=X",
+      "description":"USD/JPY",
+      "priceCeiling":130,
+      "priceFloor":100
+    },
+    {
+      "ticker":"JPYTWD=X",
+      "description":"JPY/TWD",
+      "priceCeiling":0.28,
+      "priceFloor":0.22
+    },
+    {
+      "ticker":"^GSPC",
+      "description":"S&P 500",
+      "priceCeiling":4000,
+      "priceFloor":2000
+    },
+    {
+      "ticker":"^IXIC",
+      "description":"NASDAQ Composite",
+      "priceCeiling":11000,
+      "priceFloor":6000
+    },
+    {
+      "ticker":"^DJI",
+      "description":"Dow Jones Industrial Average",
+      "priceCeiling":30000,
+      "priceFloor":20000
+    },
+    {
+      "ticker":"^RUT",
+      "description":"Russell 2000",
+      "priceCeiling":2800,
+      "priceFloor":1400
+    },
+    {
+      "ticker":"VXX",
+      "description":" S&P 500 VIX Short-Term Futures ETN",
+      "priceCeiling":40,
+      "priceFloor":15
+    },
+    {
+      "ticker":"000001.SS",
+      "description":"上證綜指",
+      "priceCeiling":3300,
+      "priceFloor":2850
+    },
+    {
+      "ticker":"399106.SZ",
+      "description":"深證綜指",
+      "priceCeiling":2100,
+      "priceFloor":1400
+    },
+    {
+      "ticker":"ARKK",
+      "description":"ARK Innovation ETF",
+      "priceCeiling":180,
+      "priceFloor":40
+    },
+    {
+      "ticker":"ARKW",
+      "description":"ARK Next Generation Internet ETF",
+      "priceCeiling":180,
+      "priceFloor":40
+    },
+    {
+      "ticker":"ARKG",
+      "description":"ARK Genomic Revolution ETF",
+      "priceCeiling":120,
+      "priceFloor":40
+    },
+    {
+      "ticker":"GNOM",
+      "description":"Global X Genomics & Biotechnology ETF",
+      "priceCeiling":30,
+      "priceFloor":19
+    },
+    {
+      "ticker":"SMH",
+      "description":"VanEck Vectors Semiconductor ETF",
+      "priceCeiling":300,
+      "priceFloor":150
+    },
+    {
+      "ticker":"SOXS",
+      "description":"Daily Semiconductor Bear 3X Shares",
+      "priceCeiling":20,
+      "priceFloor":5
+    },
+    {
+      "ticker":"LIT",
+      "description":"Global X Lithium ETF",
+      "priceCeiling":100,
+      "priceFloor":50
+    },
+    {
+      "ticker":"MCHI",
+      "description":"iShares MSCI China ETF",
+      "priceCeiling":90,
+      "priceFloor":50
+    },
+    {
+      "ticker":"INDA",
+      "description":"iShares MSCI India ETF",
+      "priceCeiling":50,
+      "priceFloor":30
+    },
+    {
+      "ticker":"KWEB",
+      "description":"KraneShares CSI China Internet ETF",
+      "priceCeiling":90,
+      "priceFloor":30
+    },
+    {
+      "ticker":"QQQ",
+      "description":"Invesco NASDAQ QQQ Trust",
+      "priceCeiling":400,
+      "priceFloor":200
+    },
+    {
+      "ticker":"TQQQ",
+      "description":"ProShares UltraPro QQQ",
+      "priceCeiling":150,
+      "priceFloor":60
+    },
+    {
+      "ticker":"SQQQ",
+      "description":"UltraPro Short QQQ ETF",
+      "priceCeiling":25,
+      "priceFloor":5
+    },
+    {
+      "ticker":"VOO",
+      "description":"Vanguard S&P 500 ETF",
+      "priceCeiling":280,
+      "priceFloor":180
+    },
+    {
+      "ticker":"0050.TW",
+      "description":"元大台灣50",
+      "priceCeiling":90,
+      "priceFloor":40
+    },
+    {
+      "ticker":"00631L.TW",
+      "description":"元大台灣50正2",
+      "priceCeiling":136,
+      "priceFloor":99
+    },
+    {
+      "ticker":"INTC",
+      "description":"Intel Corporation",
+      "priceCeiling":90,
+      "priceFloor":40
+    },
+    {
+      "ticker":"AMD",
+      "description":"Advanced Micro Devices, Inc.",
+      "priceCeiling":100,
+      "priceFloor":40
+    },
+    {
+      "ticker":"AAPL",
+      "description":"Apple Inc",
+      "priceCeiling":200,
+      "priceFloor":80
+    },
+    {
+      "ticker":"MSFT",
+      "description":"Microsoft Corporation",
+      "priceCeiling":300,
+      "priceFloor":130
+    },
+    {
+      "ticker":"GOOG",
+      "description":"Alphabet Inc.",
+      "priceCeiling":2000,
+      "priceFloor":1100
+    },
+    {
+      "ticker":"TSLA",
+      "description":"Tesla, Inc.",
+      "priceCeiling":500,
+      "priceFloor":300
+    },
+    {
+      "ticker":"CRWD",
+      "description":"Crowdstrike Holdings Inc.",
+      "priceCeiling":300,
+      "priceFloor":120
+    },
+    {
+      "ticker":"GRAB",
+      "description":"Grab Holdings Ltd.",
+      "priceCeiling":30,
+      "priceFloor":10
+    },
+    {
+      "ticker":"BFLY",
+      "description":"Butterfly Network Ord Shs Class A",
+      "priceCeiling":40,
+      "priceFloor":15
+    },
+    {
+      "ticker":"BNTX",
+      "description":"BioNTech SE - ADR",
+      "priceCeiling":250,
+      "priceFloor":100
+    },
+    {
+      "ticker":"FB",
+      "description":"Facebook, Inc.",
+      "priceCeiling":300,
+      "priceFloor":140
+    },
+    {
+      "ticker":"PLTR",
+      "description":"Palantir Technologies Inc",
+      "priceCeiling":30,
+      "priceFloor":10
+    },
+    {
+      "ticker":"SQ",
+      "description":"Square Inc",
+      "priceCeiling":250,
+      "priceFloor":100
+    },
+    {
+      "ticker":"MGM",
+      "description":"Metro-Goldwyn-Mayer, Inc.",
+      "priceCeiling":30,
+      "priceFloor":10
+    },
+    {
+      "ticker":"LVS",
+      "description":"Las Vegas Sands Corp.",
+      "priceCeiling":80,
+      "priceFloor":30
+    },
+    {
+      "ticker":"STM",
+      "description":"STMicroelectronics N.V.",
+      "priceCeiling":80,
+      "priceFloor":20
+    },
+    {
+      "ticker":"WOLF",
+      "description":"Cree, Inc.",
+      "priceCeiling":150,
+      "priceFloor":50
+    },
+    {
+      "ticker":"DIS",
+      "description":"Walt Disney Co",
+      "priceCeiling":200,
+      "priceFloor":100
+    },
+    {
+      "ticker":"BKNG",
+      "description":"Booking Holdings Inc",
+      "priceCeiling":2500,
+      "priceFloor":1500
+    },
+    {
+      "ticker":"EXPE",
+      "description":"Expedia Group, Inc.",
+      "priceCeiling":120,
+      "priceFloor":60
+    },
+    {
+      "ticker":"QCOM",
+      "description":"Qualcomm Inc.",
+      "priceCeiling":160,
+      "priceFloor":60
+    },
+    {
+      "ticker":"NVDA",
+      "description":"NVIDIA Corporation",
+      "priceCeiling":300,
+      "priceFloor":120
+    },
+    {
+      "ticker":"AMZN",
+      "description":"Amazon.com Inc.",
+      "priceCeiling":3500,
+      "priceFloor":2000
+    },
+    {
+      "ticker":"CPNG",
+      "description":"Coupang Inc.",
+      "priceCeiling":70,
+      "priceFloor":30
+    },
+    {
+      "ticker":"DAL",
+      "description":"Delta Air Lines, Inc.",
+      "priceCeiling":55,
+      "priceFloor":25
+    },
+    {
+      "ticker":"CRSP",
+      "description":"CRISPR Therapeutics AG",
+      "priceCeiling":200,
+      "priceFloor":50
+    },
+    {
+      "ticker":"BIDU",
+      "description":"Baidu Inc",
+      "priceCeiling":300,
+      "priceFloor":100
+    },
+    {
+      "ticker":"ALNY",
+      "description":"Alnylam Pharmaceuticals, Inc.",
+      "priceCeiling":250,
+      "priceFloor":50
+    },
+    {
+      "ticker":"USL",
+      "description":"United States 12 Month Oil Fund LP",
+      "priceCeiling":35,
+      "priceFloor":10
+    },
+    {
+      "ticker":"VGK",
+      "description":"Vanguard European Stock Index Fund ETF",
+      "priceCeiling":80,
+      "priceFloor":40
+    },
+    {
+      "ticker":"VNM",
+      "description":"VanEck Vectors Vietnam ETF",
+      "priceCeiling":20,
+      "priceFloor":15
+    },
+    {
+      "ticker":"EWY",
+      "description":"iShares MSCI South Korea Capped ETF",
+      "priceCeiling":70,
+      "priceFloor":50
+    },
+    {
+      "ticker":"EWJ",
+      "description":"iShares MSCI Japan ETF",
+      "priceCeiling":100,
+      "priceFloor":50
+    },
+    {
+      "ticker":"2454.TW",
+      "description":"聯發科",
+      "priceCeiling":350,
+      "priceFloor":250
+    },
+    {
+      "ticker":"2330.TW",
+      "description":"台積電",
+      "priceCeiling":260,
+      "priceFloor":180
+    },
+    {
+      "ticker":"3711.TW",
+      "description":"日月光投控",
+      "priceCeiling":105,
+      "priceFloor":83
+    },
+    {
+      "ticker":"6488.TWO",
+      "description":"環球晶",
+      "priceCeiling":500,
+      "priceFloor":240
+    },
+    {
+      "ticker":"3008.TW",
+      "description":"大立光",
+      "priceCeiling":4000,
+      "priceFloor":2800
+    },
+    {
+      "ticker":"5871.TW",
+      "description":"中租-KY",
+      "priceCeiling":150,
+      "priceFloor":60
+    },
+    {
+      "ticker":"2347.TW",
+      "description":"聯強",
+      "priceCeiling":60,
+      "priceFloor":30
+    },
+    {
+      "ticker":"2882.TW",
+      "description":"國泰金",
+      "priceCeiling":80,
+      "priceFloor":35
+    },
+    {
+      "ticker":"6670.TW",
+      "description":"復盛應用",
+      "priceCeiling":250,
+      "priceFloor":150
+    },
+    {
+      "ticker":"5306.TW",
+      "description":"桂盟",
+      "priceCeiling":250,
+      "priceFloor":100
+    },
+    {
+      "ticker":"000858.SZ",
+      "description":"五糧液",
+      "priceCeiling":150,
+      "priceFloor":90
+    },
+    {
+      "ticker":"2317.TW",
+      "description":"鴻海",
+      "priceCeiling":120,
+      "priceFloor":80
+    },
+    {
+      "ticker":"3105.TWO",
+      "description":"穩懋",
+      "priceCeiling":280,
+      "priceFloor":200
+    },
+    {
+      "ticker":"6446.TWO",
+      "description":"藥華藥",
+      "priceCeiling":250,
+      "priceFloor":160
+    },
+    {
+      "ticker":"6438.TW",
+      "description":"迅得",
+      "priceCeiling":150,
+      "priceFloor":80
+    },
+    {
+      "ticker":"0941.HK",
+      "description":"中國移動",
+      "priceCeiling":90,
+      "priceFloor":30
+    },
+    {
+      "ticker":"2618.HK",
+      "description":"京東物流",
+      "priceCeiling":50,
+      "priceFloor":25
+    },
+    {
+      "ticker":"0763.HK",
+      "description":"中興通訊",
+      "priceCeiling":20,
+      "priceFloor":13
+    },
+    {
+      "ticker":"0981.HK",
+      "description":"中芯國際",
+      "priceCeiling":30,
+      "priceFloor":15
+    },
+    {
+      "ticker":"4927.TW",
+      "description":"泰鼎-KY",
+      "priceCeiling":70,
+      "priceFloor":40
+    },
+    {
+      "ticker":"3324.TW",
+      "description":"雙鴻",
+      "priceCeiling":230,
+      "priceFloor":120
+    },
+    {
+      "ticker":"8069.TWO",
+      "description":"元太",
+      "priceCeiling":80,
+      "priceFloor":20
+    },
+    {
+      "ticker":"ALGN",
+      "description":"Align Technology, Inc.",
+      "priceCeiling":320,
+      "priceFloor":180
+    },
+    {
+      "ticker":"SE",
+      "description":"Sea Limited (SE)",
+      "priceCeiling":150,
+      "priceFloor":40
+    },
+    {
+      "ticker":"QS",
+      "description":"QuantumScape Corporation",
+      "priceCeiling":80,
+      "priceFloor":40
+    },
+    {
+      "ticker":"U",
+      "description":"Unity Software Inc.",
+      "priceCeiling":200,
+      "priceFloor":50
+    },
+    {
+      "ticker":"BABA",
+      "description":"Alibaba Group Holding Limited",
+      "priceCeiling":400,
+      "priceFloor":200
+    },
+    {
+      "ticker":"TCEHY",
+      "description":"Tencent Holdings Limited",
+      "priceCeiling":100,
+      "priceFloor":50
+    },
+    {
+      "ticker":"3690.HK",
+      "description":"美團-W",
+      "priceCeiling":300,
+      "priceFloor":100
+    },
+    {
+      "ticker":"REGN",
+      "description":"Regeneron Pharmaceuticals Inc",
+      "priceCeiling":700,
+      "priceFloor":300
+    },
+    {
+      "ticker":"2314.TW",
+      "description":"台揚",
+      "priceCeiling":60,
+      "priceFloor":30
+    },
+    {
+      "ticker":"FTCH",
+      "description":"Farfetch ",
+      "priceCeiling":80,
+      "priceFloor":40
+    },
+    {
+      "ticker":"6742.TWG",
+      "description":"澤米",
+      "priceCeiling":130,
+      "priceFloor":80
+    },
+    {
+      "ticker":"3592.TW",
+      "description":"瑞鼎",
+      "priceCeiling":800,
+      "priceFloor":500
+    },
+    {
+      "ticker":"6239.TW",
+      "description":"力成",
+      "priceCeiling":135,
+      "priceFloor":102
+    },
+    {
+      "ticker":"6747.TWO",
+      "description":"亨泰光",
+      "priceCeiling":300,
+      "priceFloor":215
+    },
+    {
+      "ticker":"3714.TW",
+      "description":"富采",
+      "priceCeiling":120,
+      "priceFloor":50
+    },
+    {
+      "ticker":"6706.TWO",
+      "description":"惠特",
+      "priceCeiling":300,
+      "priceFloor":180
+    },
+    {
+      "ticker":"6789.TW",
+      "description":"采鈺",
+      "priceCeiling":338,
+      "priceFloor":500
+    },
+    {
+      "ticker":"SES",
+      "description":"SES Holdings Pte. Ltd.",
+      "priceCeiling":15,
+      "priceFloor":10
+    },
+    {
+      "ticker":"NTLA",
+      "description":"Intellia Therapeutics Inc",
+      "priceCeiling":200,
+      "priceFloor":100
+    },
+    {
+      "ticker":"CANO",
+      "description":"Cano Health, Inc.",
+      "priceCeiling":30,
+      "priceFloor":10
+    },
+    {
+      "ticker":"ESTA",
+      "description":"Establishment Labs Hldgs",
+      "priceCeiling":100,
+      "priceFloor":60
+    },
+    {
+      "ticker":"AVIR",
+      "description":"Atea Pharmaceuticals, Inc.",
+      "priceCeiling":60,
+      "priceFloor":35
+    },
+    {
+      "ticker":"BTC-USD",
+      "description":"Bitcoin USD"
+    },
+    {
+      "ticker":"ETH-USD",
+      "description":"ETC-USD"
+    },
+    {
+      "ticker":"BNB-USD",
+      "description":"BinanceCoin USD"
+    },
+    {
+      "ticker":"SOL-USD",
+      "description":"Solana USD"
+    },
+    {
+      "ticker":"AVAX-USD",
+      "description":"AAvalanche USD"
+    }
+  ],
+
+  "currency":[
+    {
+      "ticker":"USD",
+      "description":"美金",
+      "priceCeiling":32,
+      "priceFloor":28.5,
+      "source":"HNCB"
+    },
+    {
+      "ticker":"CNY",
+      "description":"人民幣",
+      "priceCeiling":5.2,
+      "priceFloor":4.5,
+      "source":"HNCB"
+    },
+    {
+      "ticker":"HKD",
+      "description":"港幣",
+      "priceCeiling":4.5,
+      "priceFloor":3.5,
+      "source":"HNCB"
+    },
+    {
+      "ticker":"EUR",
+      "description":"歐元",
+      "priceCeiling":37,
+      "priceFloor":33,
+      "source":"HNCB"
+    },
+    {
+      "ticker":"JPY",
+      "description":"日幣",
+      "priceCeiling":0.30,
+      "priceFloor":0.27,
+      "source":"HNCB"
+    },
+    {
+      "ticker":"GBP",
+      "description":"英鎊",
+      "priceCeiling":42,
+      "priceFloor":38,
+      "source":"HNCB"
+    },
+    {
+      "ticker":"CAD",
+      "description":"加幣",
+      "priceCeiling":27,
+      "priceFloor":23,
+      "source":"HNCB"
+    },
+    {
+      "ticker":"AUC",
+      "description":"澳幣",
+      "priceCeiling":28,
+      "priceFloor":23,
+      "source":"HNCB"
+    },
+    {
+      "ticker":"ZAR",
+      "description":"南非幣",
+      "priceCeiling":2.6,
+      "priceFloor":2.1,
+      "source":"HNCB"
+    },
+    {
+      "ticker":"DEXTAUS",
+      "description":"FRED USD/TWD",
+      "priceCeiling":32,
+      "priceFloor":28.5,
+      "source":"FRED"
+    },
+    {
+      "ticker":"DEXCHUS",
+      "description":"FRED USD/CNY",
+      "priceCeiling":6.8,
+      "priceFloor":6.1,
+      "source":"FRED"
+    },
+    {
+      "ticker":"DEXJPUS",
+      "description":"FRED USD/JPY",
+      "priceCeiling":120,
+      "priceFloor":100,
+      "source":"FRED"
+    },
+    {
+      "ticker":"DEXUSEU",
+      "description":"FRED EUR/USD",
+      "priceCeiling":1.3,
+      "priceFloor":1.1,
+      "source":"FRED"
+    }
+  ],
+
+  "stockCheckingRule": {
+    "KdHigh":80,
+    "KdLow" :20,
+    "CciHigh":100,
+    "CciLow" :-100,
+    "RsiHigh":70,
+    "RsiLow" :30,
+    "DisplayPeriod":720
+  }
+}
