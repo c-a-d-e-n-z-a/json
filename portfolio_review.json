@@ -103,10 +103,10 @@
       "priceFloor":150
     },
     {
-      "ticker":"SOXS",
-      "description":"Daily Semiconductor Bear 3X Shares",
-      "priceCeiling":20,
-      "priceFloor":5
+      "ticker":"IEF",
+      "description":"iShare 7-10 Year Treasure Bond ETF",
+      "priceCeiling":136,
+      "priceFloor":106
     },
     {
       "ticker":"LIT",
