@@ -547,10 +547,16 @@
       "priceFloor":300
     },
     {
-      "ticker":"2314.TW",
-      "description":"台揚",
-      "priceCeiling":60,
-      "priceFloor":30
+      "ticker":"6533.TW",
+      "description":"晶心科",
+      "priceCeiling":583,
+      "priceFloor":402
+    },     
+    {
+      "ticker":"6584.TW",
+      "description":"錼創科技",
+      "priceCeiling":108,
+      "priceFloor":80
     },
     {
       "ticker":"FTCH",
