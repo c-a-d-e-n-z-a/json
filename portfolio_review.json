@@ -619,12 +619,6 @@
       "priceFloor":100
     },
     {
-      "ticker":"CANO",
-      "description":"Cano Health, Inc.",
-      "priceCeiling":30,
-      "priceFloor":10
-    },
-    {
       "ticker":"ESTA",
       "description":"Establishment Labs Hldgs",
       "priceCeiling":100,
