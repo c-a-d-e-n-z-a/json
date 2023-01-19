@@ -55,10 +55,10 @@
       "priceFloor":1400
     },
     {
-      "ticker":"VXX",
-      "description":" S&P 500 VIX Short-Term Futures ETN",
-      "priceCeiling":40,
-      "priceFloor":15
+      "ticker":"^VIX",
+      "description":"CBOE Volatility Index",
+      "priceCeiling":29,
+      "priceFloor":19
     },
     {
       "ticker":"000001.SS",
