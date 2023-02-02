@@ -487,7 +487,7 @@
       "priceFloor":40
     },
     {
-      "ticker":"3324.TW",
+      "ticker":"3324.TWO",
       "description":"雙鴻",
       "priceCeiling":230,
       "priceFloor":120
@@ -565,7 +565,7 @@
       "priceFloor":40
     },
     {
-      "ticker":"6742.TWG",
+      "ticker":"6742.TWO",
       "description":"澤米",
       "priceCeiling":130,
       "priceFloor":80
@@ -595,7 +595,7 @@
       "priceFloor":50
     },
     {
-      "ticker":"6706.TWO",
+      "ticker":"6706.TW",
       "description":"惠特",
       "priceCeiling":300,
       "priceFloor":180
