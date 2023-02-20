@@ -19,6 +19,12 @@
       "priceFloor":1
     },
     {
+      "ticker":"TWD=X",
+      "description":"USD/TWD",
+      "priceCeiling":33.5,
+      "priceFloor":28.5
+    },
+    {
       "ticker":"JPY=X",
       "description":"USD/JPY",
       "priceCeiling":130,
