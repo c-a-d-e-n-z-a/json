@@ -163,6 +163,12 @@
       "priceFloor":180
     },
     {
+      "ticker":"XLF",
+      "description":"Financial Select Sector SPDR Fund",
+      "priceCeiling":39,
+      "priceFloor":33
+    },    
+    {
       "ticker":"0050.TW",
       "description":"元大台灣50",
       "priceCeiling":90,
