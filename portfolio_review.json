@@ -13,6 +13,12 @@
       "priceFloor":120
     },
     {
+      "ticker":"TWA02",
+      "description":"台灣加權報酬指數",
+      "priceCeiling":36666,
+      "priceFloor":26666
+    },    
+    {
       "ticker":"^TNX",
       "description":"Treasury Yield 10 Years",
       "priceCeiling":3,
