@@ -125,7 +125,7 @@
       "description":"iShare 7-10 Year Treasure Bond ETF",
       "priceCeiling":23,
       "priceFloor":7
-    },    
+    }, 
     {
       "ticker":"LIT",
       "description":"Global X Lithium ETF",
@@ -331,12 +331,6 @@
       "priceFloor":2000
     },
     {
-      "ticker":"CPNG",
-      "description":"Coupang Inc.",
-      "priceCeiling":70,
-      "priceFloor":30
-    },
-    {
       "ticker":"DAL",
       "description":"Delta Air Lines, Inc.",
       "priceCeiling":55,
@@ -437,24 +431,6 @@
       "description":"國泰金",
       "priceCeiling":80,
       "priceFloor":35
-    },
-    {
-      "ticker":"6670.TW",
-      "description":"復盛應用",
-      "priceCeiling":250,
-      "priceFloor":150
-    },
-    {
-      "ticker":"5306.TW",
-      "description":"桂盟",
-      "priceCeiling":250,
-      "priceFloor":100
-    },
-    {
-      "ticker":"000858.SZ",
-      "description":"五糧液",
-      "priceCeiling":150,
-      "priceFloor":90
     },
     {
       "ticker":"2317.TW",
@@ -701,7 +677,7 @@
     },
     {
       "ticker":"SGD",
-      "description":"新加坡幣",
+      "description":"新幣",
       "priceCeiling":23,
       "priceFloor":20,
       "source":"HNCB"
