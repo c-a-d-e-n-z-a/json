@@ -116,10 +116,16 @@
     },
     {
       "ticker":"IEF",
-      "description":"iShare 7-10 Year Treasure Bond ETF",
+      "description":"Direxion Daily 20+ Year Treasury Bull 3X Shares",
       "priceCeiling":136,
       "priceFloor":106
     },
+    {
+      "ticker":"TMF",
+      "description":"iShare 7-10 Year Treasure Bond ETF",
+      "priceCeiling":23,
+      "priceFloor":7
+    },    
     {
       "ticker":"LIT",
       "description":"Global X Lithium ETF",
@@ -481,12 +487,6 @@
       "priceFloor":30
     },
     {
-      "ticker":"2618.HK",
-      "description":"京東物流",
-      "priceCeiling":50,
-      "priceFloor":25
-    },
-    {
       "ticker":"0763.HK",
       "description":"中興通訊",
       "priceCeiling":20,
@@ -526,12 +526,6 @@
       "ticker":"SE",
       "description":"Sea Limited (SE)",
       "priceCeiling":150,
-      "priceFloor":40
-    },
-    {
-      "ticker":"QS",
-      "description":"QuantumScape Corporation",
-      "priceCeiling":80,
       "priceFloor":40
     },
     {
@@ -595,28 +589,10 @@
       "priceFloor":500
     },
     {
-      "ticker":"6239.TW",
-      "description":"力成",
-      "priceCeiling":135,
-      "priceFloor":102
-    },
-    {
       "ticker":"6747.TWO",
       "description":"亨泰光",
       "priceCeiling":300,
       "priceFloor":215
-    },
-    {
-      "ticker":"3714.TW",
-      "description":"富采",
-      "priceCeiling":120,
-      "priceFloor":50
-    },
-    {
-      "ticker":"6706.TW",
-      "description":"惠特",
-      "priceCeiling":300,
-      "priceFloor":180
     },
     {
       "ticker":"6789.TW",
@@ -664,10 +640,6 @@
       "ticker":"SOL-USD",
       "description":"Solana USD"
     },
-    {
-      "ticker":"AVAX-USD",
-      "description":"AAvalanche USD"
-    }
   ],
 
   "currency":[
@@ -728,10 +700,10 @@
       "source":"HNCB"
     },
     {
-      "ticker":"ZAR",
-      "description":"南非幣",
-      "priceCeiling":2.6,
-      "priceFloor":2.1,
+      "ticker":"SGD",
+      "description":"新加坡幣",
+      "priceCeiling":23,
+      "priceFloor":20,
       "source":"HNCB"
     },
     {
