@@ -193,6 +193,12 @@
       "priceFloor":99
     },
     {
+      "ticker":"00763U.TW",
+      "description":"期街口道瓊銅",
+      "priceCeiling":30.64,
+      "priceFloor":24.24
+    },
+    {
       "ticker":"INTC",
       "description":"Intel Corporation",
       "priceCeiling":90,
