@@ -73,6 +73,12 @@
       "priceFloor":19
     },
     {
+      "ticker":"^VXN",
+      "description":"CBOE NASDAQ 100 Voltility",
+      "priceCeiling":29,
+      "priceFloor":19
+    },    
+    {
       "ticker":"000001.SS",
       "description":"上證綜指",
       "priceCeiling":3300,
