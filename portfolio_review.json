@@ -585,8 +585,20 @@
     {
       "ticker":"6789.TW",
       "description":"采鈺",
-      "priceCeiling":338,
-      "priceFloor":500
+      "priceCeiling":260,
+      "priceFloor":203
+    },
+    {
+      "ticker":"6235.TW",
+      "description":"華孚",
+      "priceCeiling":163,
+      "priceFloor":137
+    },
+    {
+      "ticker":"8996.TW",
+      "description":"高力",
+      "priceCeiling":447,
+      "priceFloor":271
     },
     {
       "ticker":"SES",
