@@ -77,7 +77,7 @@
       "description":"CBOE NASDAQ 100 Voltility",
       "priceCeiling":29,
       "priceFloor":19
-    },    
+    }, 
     {
       "ticker":"000001.SS",
       "description":"上證綜指",
@@ -90,6 +90,18 @@
       "priceCeiling":2100,
       "priceFloor":1400
     },
+    {
+      "ticker":"0050.TW",
+      "description":"元大台灣50",
+      "priceCeiling":90,
+      "priceFloor":40
+    },
+    {
+      "ticker":"SPY",
+      "description":"SPDR S&P 500 ETF Trust",
+      "priceCeiling":466,
+      "priceFloor":421
+    },    
     {
       "ticker":"ARKK",
       "description":"ARK Innovation ETF",
@@ -175,23 +187,11 @@
       "priceFloor":5
     },
     {
-      "ticker":"VOO",
-      "description":"Vanguard S&P 500 ETF",
-      "priceCeiling":280,
-      "priceFloor":180
-    },
-    {
       "ticker":"XLF",
       "description":"Financial Select Sector SPDR Fund",
       "priceCeiling":39,
       "priceFloor":33
     },    
-    {
-      "ticker":"0050.TW",
-      "description":"元大台灣50",
-      "priceCeiling":90,
-      "priceFloor":40
-    },
     {
       "ticker":"00631L.TW",
       "description":"元大台灣50正2",
