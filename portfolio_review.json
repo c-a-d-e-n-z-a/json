@@ -97,10 +97,10 @@
       "priceFloor":40
     },
     {
-      "ticker":"SPY",
-      "description":"SPDR S&P 500 ETF Trust",
-      "priceCeiling":466,
-      "priceFloor":421
+      "ticker":"VOO",
+      "description":"Vanguard 500 Index Fund",
+      "priceCeiling":426,
+      "priceFloor":386
     },    
     {
       "ticker":"ARKK",
