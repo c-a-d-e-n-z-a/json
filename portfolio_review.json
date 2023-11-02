@@ -25,6 +25,12 @@
       "priceFloor":1
     },
     {
+      "ticker":"DX-Y.NYB",
+      "description":"ICE US Dollar Index ",
+      "priceCeiling":107,
+      "priceFloor":101
+    },    
+    {
       "ticker":"TWD=X",
       "description":"USD/TWD",
       "priceCeiling":33.5,
