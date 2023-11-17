@@ -601,6 +601,12 @@
       "priceFloor":137
     },
     {
+      "ticker":"6806.TW",
+      "description":"森崴能源",
+      "priceCeiling":129,
+      "priceFloor":111
+    },
+    {
       "ticker":"8996.TW",
       "description":"高力",
       "priceCeiling":447,
