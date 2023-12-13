@@ -193,6 +193,12 @@
       "priceFloor":5
     },
     {
+      "ticker":"IWM",
+      "description":"iShares Russell 2000 ETF",
+      "priceCeiling":195,
+      "priceFloor":165
+    },
+    {
       "ticker":"XLF",
       "description":"Financial Select Sector SPDR Fund",
       "priceCeiling":39,
@@ -445,12 +451,6 @@
       "priceFloor":30
     },
     {
-      "ticker":"2882.TW",
-      "description":"國泰金",
-      "priceCeiling":80,
-      "priceFloor":35
-    },
-    {
       "ticker":"2317.TW",
       "description":"鴻海",
       "priceCeiling":120,
@@ -575,12 +575,6 @@
       "description":"澤米",
       "priceCeiling":130,
       "priceFloor":80
-    },
-    {
-      "ticker":"3592.TW",
-      "description":"瑞鼎",
-      "priceCeiling":800,
-      "priceFloor":500
     },
     {
       "ticker":"6747.TWO",
