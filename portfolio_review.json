@@ -27,8 +27,8 @@
     {
       "ticker":"DX-Y.NYB",
       "description":"ICE US Dollar Index ",
-      "priceCeiling":107,
-      "priceFloor":101
+      "priceCeiling":104.5,
+      "priceFloor":99.5
     },    
     {
       "ticker":"TWD=X",
