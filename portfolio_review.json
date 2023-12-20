@@ -159,8 +159,8 @@
     {
       "ticker":"MCHI",
       "description":"iShares MSCI China ETF",
-      "priceCeiling":90,
-      "priceFloor":50
+      "priceCeiling":50.5,
+      "priceFloor":40.2
     },
     {
       "ticker":"INDA",
