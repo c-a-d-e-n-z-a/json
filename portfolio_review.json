@@ -85,10 +85,10 @@
       "priceFloor":19
     }, 
     {
-      "ticker":"000001.SS",
-      "description":"上證綜指",
-      "priceCeiling":3300,
-      "priceFloor":2850
+      "ticker":"000300.SS",
+      "description":"滬深300",
+      "priceCeiling":3968,
+      "priceFloor":3398
     },
     {
       "ticker":"399106.SZ",
