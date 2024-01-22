@@ -67,12 +67,6 @@
       "priceFloor":20000
     },
     {
-      "ticker":"^RUT",
-      "description":"Russell 2000",
-      "priceCeiling":2800,
-      "priceFloor":1400
-    },
-    {
       "ticker":"^VIX",
       "description":"CBOE Volatility Index",
       "priceCeiling":29,
@@ -103,27 +97,51 @@
       "priceFloor":40
     },
     {
+      "ticker":"00631L.TW",
+      "description":"元大台灣50正2",
+      "priceCeiling":136,
+      "priceFloor":99
+    },    
+    {
       "ticker":"VOO",
       "description":"Vanguard 500 Index Fund",
       "priceCeiling":426,
       "priceFloor":386
-    },    
+    }, 
+    {
+      "ticker":"QQQ",
+      "description":"Invesco NASDAQ QQQ Trust",
+      "priceCeiling":400,
+      "priceFloor":200
+    },
+    {
+      "ticker":"TQQQ",
+      "description":"ProShares UltraPro QQQ",
+      "priceCeiling":150,
+      "priceFloor":60
+    },
+    {
+      "ticker":"XLF",
+      "description":"Financial Select Sector SPDR Fund",
+      "priceCeiling":39,
+      "priceFloor":33
+    },        
+    {
+      "ticker":"SQQQ",
+      "description":"UltraPro Short QQQ ETF",
+      "priceCeiling":25,
+      "priceFloor":5
+    },
+    {
+      "ticker":"IWM",
+      "description":"iShares Russell 2000 ETF",
+      "priceCeiling":195,
+      "priceFloor":165
+    },
     {
       "ticker":"ARKK",
       "description":"ARK Innovation ETF",
       "priceCeiling":180,
-      "priceFloor":40
-    },
-    {
-      "ticker":"ARKW",
-      "description":"ARK Next Generation Internet ETF",
-      "priceCeiling":180,
-      "priceFloor":40
-    },
-    {
-      "ticker":"ARKG",
-      "description":"ARK Genomic Revolution ETF",
-      "priceCeiling":120,
       "priceFloor":40
     },
     {
@@ -139,18 +157,6 @@
       "priceFloor":150
     },
     {
-      "ticker":"IEF",
-      "description":"iShare 7-10 Year Treasure Bond ETF",
-      "priceCeiling":136,
-      "priceFloor":106
-    },
-    {
-      "ticker":"TMF",
-      "description":"Direxion Daily 20+ Year Treasury Bull 3X Shares",
-      "priceCeiling":23,
-      "priceFloor":7
-    }, 
-    {
       "ticker":"LIT",
       "description":"Global X Lithium ETF",
       "priceCeiling":100,
@@ -163,53 +169,59 @@
       "priceFloor":40.2
     },
     {
+      "ticker":"KWEB",
+      "description":"KraneShares CSI China Internet ETF",
+      "priceCeiling":90,
+      "priceFloor":30
+    },    
+    {
       "ticker":"INDA",
       "description":"iShares MSCI India ETF",
       "priceCeiling":50,
       "priceFloor":30
     },
     {
-      "ticker":"KWEB",
-      "description":"KraneShares CSI China Internet ETF",
-      "priceCeiling":90,
-      "priceFloor":30
-    },
-    {
-      "ticker":"QQQ",
-      "description":"Invesco NASDAQ QQQ Trust",
-      "priceCeiling":400,
-      "priceFloor":200
-    },
-    {
-      "ticker":"TQQQ",
-      "description":"ProShares UltraPro QQQ",
-      "priceCeiling":150,
-      "priceFloor":60
-    },
-    {
-      "ticker":"SQQQ",
-      "description":"UltraPro Short QQQ ETF",
-      "priceCeiling":25,
-      "priceFloor":5
-    },
-    {
-      "ticker":"IWM",
-      "description":"iShares Russell 2000 ETF",
-      "priceCeiling":195,
-      "priceFloor":165
-    },
-    {
-      "ticker":"XLF",
-      "description":"Financial Select Sector SPDR Fund",
-      "priceCeiling":39,
-      "priceFloor":33
-    },    
-    {
-      "ticker":"00631L.TW",
-      "description":"元大台灣50正2",
+      "ticker":"IEF",
+      "description":"iShare 7-10 Year Treasure Bond ETF",
       "priceCeiling":136,
-      "priceFloor":99
+      "priceFloor":106
     },
+    {
+      "ticker":"TMF",
+      "description":"Direxion Daily 20+ Year Treasury Bull 3X Shares",
+      "priceCeiling":23,
+      "priceFloor":7
+    }, 
+    {
+      "ticker":"USL",
+      "description":"United States 12 Month Oil Fund LP",
+      "priceCeiling":35,
+      "priceFloor":10
+    },
+    {
+      "ticker":"VGK",
+      "description":"Vanguard European Stock Index Fund ETF",
+      "priceCeiling":80,
+      "priceFloor":40
+    },
+    {
+      "ticker":"VNM",
+      "description":"VanEck Vectors Vietnam ETF",
+      "priceCeiling":20,
+      "priceFloor":15
+    },
+    {
+      "ticker":"EWY",
+      "description":"iShares MSCI South Korea Capped ETF",
+      "priceCeiling":70,
+      "priceFloor":50
+    },
+    {
+      "ticker":"EWJ",
+      "description":"iShares MSCI Japan ETF",
+      "priceCeiling":100,
+      "priceFloor":50
+    },    
     {
       "ticker":"00763U.TW",
       "description":"期街口道瓊銅",
@@ -379,36 +391,6 @@
       "priceFloor":50
     },
     {
-      "ticker":"USL",
-      "description":"United States 12 Month Oil Fund LP",
-      "priceCeiling":35,
-      "priceFloor":10
-    },
-    {
-      "ticker":"VGK",
-      "description":"Vanguard European Stock Index Fund ETF",
-      "priceCeiling":80,
-      "priceFloor":40
-    },
-    {
-      "ticker":"VNM",
-      "description":"VanEck Vectors Vietnam ETF",
-      "priceCeiling":20,
-      "priceFloor":15
-    },
-    {
-      "ticker":"EWY",
-      "description":"iShares MSCI South Korea Capped ETF",
-      "priceCeiling":70,
-      "priceFloor":50
-    },
-    {
-      "ticker":"EWJ",
-      "description":"iShares MSCI Japan ETF",
-      "priceCeiling":100,
-      "priceFloor":50
-    },
-    {
       "ticker":"2454.TW",
       "description":"聯發科",
       "priceCeiling":350,
@@ -467,12 +449,6 @@
       "description":"藥華藥",
       "priceCeiling":250,
       "priceFloor":160
-    },
-    {
-      "ticker":"6438.TW",
-      "description":"迅得",
-      "priceCeiling":150,
-      "priceFloor":80
     },
     {
       "ticker":"0941.HK",
