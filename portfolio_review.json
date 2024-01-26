@@ -85,12 +85,6 @@
       "priceFloor":3398
     },
     {
-      "ticker":"399106.SZ",
-      "description":"深證綜指",
-      "priceCeiling":2100,
-      "priceFloor":1400
-    },
-    {
       "ticker":"0050.TW",
       "description":"元大台灣50",
       "priceCeiling":90,
