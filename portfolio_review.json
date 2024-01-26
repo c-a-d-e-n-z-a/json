@@ -577,12 +577,6 @@
       "priceFloor":271
     },
     {
-      "ticker":"SES",
-      "description":"SES Holdings Pte. Ltd.",
-      "priceCeiling":15,
-      "priceFloor":10
-    },
-    {
       "ticker":"NTLA",
       "description":"Intellia Therapeutics Inc",
       "priceCeiling":200,
