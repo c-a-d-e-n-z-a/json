@@ -577,6 +577,18 @@
       "priceFloor":271
     },
     {
+      "ticker":"3706.TW",
+      "description":"神達",
+      "priceCeiling":50.1,
+      "priceFloor":44.1
+    }, 
+    {
+      "ticker":"5278.TWO",
+      "description":"尚凡",
+      "priceCeiling":287,
+      "priceFloor":220
+    }, 
+    {
       "ticker":"NTLA",
       "description":"Intellia Therapeutics Inc",
       "priceCeiling":200,
