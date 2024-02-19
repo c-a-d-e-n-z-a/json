@@ -535,12 +535,6 @@
       "priceFloor":80
     },
     {
-      "ticker":"FTCH",
-      "description":"Farfetch ",
-      "priceCeiling":80,
-      "priceFloor":40
-    },
-    {
       "ticker":"6742.TWO",
       "description":"澤米",
       "priceCeiling":130,
