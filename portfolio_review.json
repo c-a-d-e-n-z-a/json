@@ -133,6 +133,12 @@
       "priceFloor":165
     },
     {
+      "ticker":"URTY",
+      "description":"Proshare Utra Russell 2000 ETF",
+      "priceCeiling":72.3,
+      "priceFloor":42.3
+    },
+    {
       "ticker":"ARKK",
       "description":"ARK Innovation ETF",
       "priceCeiling":180,
