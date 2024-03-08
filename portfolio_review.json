@@ -589,6 +589,12 @@
       "priceFloor":220
     }, 
     {
+      "ticker":"4933.TWO",
+      "description":"友輝",
+      "priceCeiling":62.8,
+      "priceFloor":80
+    }, 
+    {
       "ticker":"NTLA",
       "description":"Intellia Therapeutics Inc",
       "priceCeiling":200,
