@@ -445,10 +445,10 @@
       "priceFloor":200
     },
     {
-      "ticker":"6446.TWO",
+      "ticker":"6446.TW",
       "description":"藥華藥",
-      "priceCeiling":250,
-      "priceFloor":160
+      "priceCeiling":340,
+      "priceFloor":310
     },
     {
       "ticker":"0941.HK",
