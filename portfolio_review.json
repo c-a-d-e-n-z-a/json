@@ -109,6 +109,12 @@
       "priceFloor":200
     },
     {
+      "ticker":"QLD",
+      "description":"ProShares Ultra QQQ",
+      "priceCeiling":90.8,
+      "priceFloor":73.8
+    },
+    {
       "ticker":"TQQQ",
       "description":"ProShares UltraPro QQQ",
       "priceCeiling":150,
