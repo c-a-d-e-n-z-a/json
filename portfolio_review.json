@@ -595,10 +595,10 @@
       "priceFloor":220
     }, 
     {
-      "ticker":"4933.TWO",
-      "description":"友輝",
-      "priceCeiling":80,
-      "priceFloor":62.8
+      "ticker":"1419.TW",
+      "description":"新紡",
+      "priceCeiling":54.8,
+      "priceFloor":48.8
     }, 
     {
       "ticker":"NTLA",
