@@ -487,6 +487,12 @@
       "priceFloor":120
     },
     {
+      "ticker":"3017.TW",
+      "description":"奇鋐",
+      "priceCeiling":680,
+      "priceFloor":508
+    },    
+    {
       "ticker":"8069.TWO",
       "description":"元太",
       "priceCeiling":80,
@@ -547,18 +553,6 @@
       "priceFloor":80
     },
     {
-      "ticker":"6742.TW",
-      "description":"澤米",
-      "priceCeiling":130,
-      "priceFloor":80
-    },
-    {
-      "ticker":"6747.TWO",
-      "description":"亨泰光",
-      "priceCeiling":300,
-      "priceFloor":215
-    },
-    {
       "ticker":"6789.TW",
       "description":"采鈺",
       "priceCeiling":260,
@@ -583,12 +577,6 @@
       "priceFloor":271
     },
     {
-      "ticker":"3706.TW",
-      "description":"神達",
-      "priceCeiling":57.9,
-      "priceFloor":47.9
-    }, 
-    {
       "ticker":"5278.TWO",
       "description":"尚凡",
       "priceCeiling":287,
@@ -599,18 +587,24 @@
       "description":"新紡",
       "priceCeiling":54.8,
       "priceFloor":48.8
+    },
+    {
+      "ticker":"5706.TW",
+      "description":"鳳凰",
+      "priceCeiling":78.3,
+      "priceFloor":71.8
+    },
+    {
+      "ticker":"2731.TW",
+      "description":"雄獅",
+      "priceCeiling":174,
+      "priceFloor":143
     }, 
     {
       "ticker":"NTLA",
       "description":"Intellia Therapeutics Inc",
       "priceCeiling":200,
       "priceFloor":100
-    },
-    {
-      "ticker":"ESTA",
-      "description":"Establishment Labs Hldgs",
-      "priceCeiling":100,
-      "priceFloor":60
     },
     {
       "ticker":"AVIR",
