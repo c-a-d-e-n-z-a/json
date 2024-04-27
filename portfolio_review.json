@@ -601,6 +601,12 @@
       "priceFloor":143
     }, 
     {
+      "ticker":"1475.TW",
+      "description":"業旺",
+      "priceCeiling":69.3,
+      "priceFloor":53.4
+    }, 
+    {
       "ticker":"NTLA",
       "description":"Intellia Therapeutics Inc",
       "priceCeiling":200,
