@@ -613,6 +613,12 @@
       "priceFloor":17.2
     }, 
     {
+      "ticker":"1905.TW",
+      "description":"華紙",
+      "priceCeiling":30.2,
+      "priceFloor":23.5
+    },
+    {
       "ticker":"NTLA",
       "description":"Intellia Therapeutics Inc",
       "priceCeiling":200,
