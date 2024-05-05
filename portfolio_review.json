@@ -621,7 +621,7 @@
     {
       "ticker":"1218.TW",
       "description":"泰山",
-      "priceCeiling":26.5
+      "priceCeiling":26.5,
       "priceFloor":22.5
     },
     {
