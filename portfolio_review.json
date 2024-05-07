@@ -229,12 +229,6 @@
       "priceFloor":50
     },    
     {
-      "ticker":"00763U.TW",
-      "description":"期街口道瓊銅",
-      "priceCeiling":30.64,
-      "priceFloor":24.24
-    },
-    {
       "ticker":"INTC",
       "description":"Intel Corporation",
       "priceCeiling":90,
@@ -289,12 +283,6 @@
       "priceFloor":15
     },
     {
-      "ticker":"BNTX",
-      "description":"BioNTech SE - ADR",
-      "priceCeiling":250,
-      "priceFloor":100
-    },
-    {
       "ticker":"META",
       "description":"Meta Platforms, Inc.",
       "priceCeiling":288,
@@ -311,18 +299,6 @@
       "description":"Square Inc",
       "priceCeiling":250,
       "priceFloor":100
-    },
-    {
-      "ticker":"MGM",
-      "description":"Metro-Goldwyn-Mayer, Inc.",
-      "priceCeiling":30,
-      "priceFloor":10
-    },
-    {
-      "ticker":"LVS",
-      "description":"Las Vegas Sands Corp.",
-      "priceCeiling":80,
-      "priceFloor":30
     },
     {
       "ticker":"STM",
@@ -343,18 +319,6 @@
       "priceFloor":100
     },
     {
-      "ticker":"BKNG",
-      "description":"Booking Holdings Inc",
-      "priceCeiling":2500,
-      "priceFloor":1500
-    },
-    {
-      "ticker":"EXPE",
-      "description":"Expedia Group, Inc.",
-      "priceCeiling":120,
-      "priceFloor":60
-    },
-    {
       "ticker":"QCOM",
       "description":"Qualcomm Inc.",
       "priceCeiling":160,
@@ -373,28 +337,10 @@
       "priceFloor":2000
     },
     {
-      "ticker":"DAL",
-      "description":"Delta Air Lines, Inc.",
-      "priceCeiling":55,
-      "priceFloor":25
-    },
-    {
-      "ticker":"CRSP",
-      "description":"CRISPR Therapeutics AG",
-      "priceCeiling":200,
-      "priceFloor":50
-    },
-    {
       "ticker":"BIDU",
       "description":"Baidu Inc",
       "priceCeiling":300,
       "priceFloor":100
-    },
-    {
-      "ticker":"ALNY",
-      "description":"Alnylam Pharmaceuticals, Inc.",
-      "priceCeiling":250,
-      "priceFloor":50
     },
     {
       "ticker":"2454.TW",
@@ -431,12 +377,6 @@
       "description":"中租-KY",
       "priceCeiling":150,
       "priceFloor":60
-    },
-    {
-      "ticker":"2347.TW",
-      "description":"聯強",
-      "priceCeiling":60,
-      "priceFloor":30
     },
     {
       "ticker":"2317.TW",
@@ -499,12 +439,6 @@
       "priceFloor":20
     },
     {
-      "ticker":"ALGN",
-      "description":"Align Technology, Inc.",
-      "priceCeiling":320,
-      "priceFloor":180
-    },
-    {
       "ticker":"SE",
       "description":"Sea Limited (SE)",
       "priceCeiling":150,
@@ -533,12 +467,6 @@
       "description":"美團-W",
       "priceCeiling":300,
       "priceFloor":100
-    },
-    {
-      "ticker":"REGN",
-      "description":"Regeneron Pharmaceuticals Inc",
-      "priceCeiling":700,
-      "priceFloor":300
     },
     {
       "ticker":"6533.TW",
@@ -629,12 +557,6 @@
       "description":"遠東新",
       "priceCeiling":35.6,
       "priceFloor":33.6
-    },
-    {
-      "ticker":"AVIR",
-      "description":"Atea Pharmaceuticals, Inc.",
-      "priceCeiling":60,
-      "priceFloor":35
     },
     {
       "ticker":"BTC-USD",
