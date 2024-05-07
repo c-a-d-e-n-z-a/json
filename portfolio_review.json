@@ -607,12 +607,6 @@
       "priceFloor":53.4
     }, 
     {
-      "ticker":"6120.TW",
-      "description":"達運",
-      "priceCeiling":21.2,
-      "priceFloor":17.2
-    }, 
-    {
       "ticker":"1905.TW",
       "description":"華紙",
       "priceCeiling":30.2,
@@ -625,10 +619,16 @@
       "priceFloor":22.5
     },
     {
-      "ticker":"NTLA",
-      "description":"Intellia Therapeutics Inc",
-      "priceCeiling":200,
-      "priceFloor":100
+      "ticker":"1582.TW",
+      "description":"信錦",
+      "priceCeiling":133,
+      "priceFloor":105.5
+    },
+    {
+      "ticker":"1402.TW",
+      "description":"遠東新",
+      "priceCeiling":35.6,
+      "priceFloor":33.6
     },
     {
       "ticker":"AVIR",
