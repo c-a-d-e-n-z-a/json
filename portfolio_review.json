@@ -559,6 +559,18 @@
       "priceFloor":33.6
     },
     {
+      "ticker":"3356.TW",
+      "description":"奇偶",
+      "priceCeiling":65.5,
+      "priceFloor":58.5
+    },
+    {
+      "ticker":"8932.TWO",
+      "description":"智通",
+      "priceCeiling":150,
+      "priceFloor":127
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
