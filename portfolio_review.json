@@ -553,6 +553,12 @@
       "priceFloor":105.5
     },
     {
+      "ticker":"3031.TW",
+      "description":"佰鴻",
+      "priceCeiling":25.8,
+      "priceFloor":21.25
+    },
+    {
       "ticker":"1402.TW",
       "description":"遠東新",
       "priceCeiling":35.6,
