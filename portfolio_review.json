@@ -511,18 +511,6 @@
       "priceFloor":220
     }, 
     {
-      "ticker":"1419.TW",
-      "description":"新紡",
-      "priceCeiling":54.8,
-      "priceFloor":48.8
-    },
-    {
-      "ticker":"5706.TW",
-      "description":"鳳凰",
-      "priceCeiling":78.3,
-      "priceFloor":71.8
-    },
-    {
       "ticker":"2731.TW",
       "description":"雄獅",
       "priceCeiling":174,
