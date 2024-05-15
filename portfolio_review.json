@@ -571,6 +571,12 @@
       "priceFloor":280.5
     },
     {
+      "ticker":"1476.TW",
+      "description":"儒鴻",
+      "priceCeiling":570,
+      "priceFloor":490.5
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
