@@ -563,7 +563,13 @@
       "description":"東生華",
       "priceCeiling":74,
       "priceFloor":66.3
-    },    
+    },
+    {
+      "ticker":"3035.TW",
+      "description":"智原",
+      "priceCeiling":340,
+      "priceFloor":280.5
+    },
     {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
