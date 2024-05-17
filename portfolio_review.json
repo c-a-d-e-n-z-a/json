@@ -577,6 +577,12 @@
       "priceFloor":490.5
     },
     {
+      "ticker":"8112.TW",
+      "description":"至上",
+      "priceCeiling":107.7,
+      "priceFloor":83.7
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
