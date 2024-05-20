@@ -583,6 +583,12 @@
       "priceFloor":83.7
     },
     {
+      "ticker":"6188.TWO",
+      "description":"廣明",
+      "priceCeiling":123.5,
+      "priceFloor":99.5
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
