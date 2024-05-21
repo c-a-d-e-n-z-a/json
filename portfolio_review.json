@@ -529,12 +529,6 @@
       "priceFloor":23.5
     },
     {
-      "ticker":"1582.TW",
-      "description":"信錦",
-      "priceCeiling":133,
-      "priceFloor":105.5
-    },
-    {
       "ticker":"3031.TW",
       "description":"佰鴻",
       "priceCeiling":25.8,
