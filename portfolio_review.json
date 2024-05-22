@@ -393,8 +393,8 @@
     {
       "ticker":"6446.TW",
       "description":"藥華藥",
-      "priceCeiling":340,
-      "priceFloor":310
+      "priceCeiling":500,
+      "priceFloor":413.5
     },
     {
       "ticker":"0941.HK",
