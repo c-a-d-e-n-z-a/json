@@ -415,12 +415,6 @@
       "priceFloor":15
     },
     {
-      "ticker":"4927.TW",
-      "description":"泰鼎-KY",
-      "priceCeiling":70,
-      "priceFloor":40
-    },
-    {
       "ticker":"3324.TWO",
       "description":"雙鴻",
       "priceCeiling":230,
