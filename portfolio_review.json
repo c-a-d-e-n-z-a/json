@@ -571,6 +571,12 @@
       "priceFloor":83.7
     },
     {
+      "ticker":"3062.TW",
+      "description":"建漢",
+      "priceCeiling":30.5,
+      "priceFloor":24.7
+    },
+    {
       "ticker":"6188.TWO",
       "description":"廣明",
       "priceCeiling":123.5,
