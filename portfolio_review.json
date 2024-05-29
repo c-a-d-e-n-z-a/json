@@ -529,12 +529,6 @@
       "priceFloor":21.25
     },
     {
-      "ticker":"1402.TW",
-      "description":"遠東新",
-      "priceCeiling":35.6,
-      "priceFloor":33.6
-    },
-    {
       "ticker":"3356.TW",
       "description":"奇偶",
       "priceCeiling":65.5,
