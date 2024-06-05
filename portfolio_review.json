@@ -577,6 +577,12 @@
       "priceFloor":99.5
     },
     {
+      "ticker":"1786.TW",
+      "description":"科妍",
+      "priceCeiling":134,
+      "priceFloor":114
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
