@@ -583,6 +583,12 @@
       "priceFloor":114
     },
     {
+      "ticker":"2387.TW",
+      "description":"精元",
+      "priceCeiling":90,
+      "priceFloor":60.7
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
