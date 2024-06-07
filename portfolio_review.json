@@ -487,12 +487,6 @@
       "priceFloor":137
     },
     {
-      "ticker":"6806.TW",
-      "description":"森崴能源",
-      "priceCeiling":129,
-      "priceFloor":111
-    },
-    {
       "ticker":"8996.TW",
       "description":"高力",
       "priceCeiling":447,
@@ -505,24 +499,6 @@
       "priceFloor":220
     }, 
     {
-      "ticker":"2731.TW",
-      "description":"雄獅",
-      "priceCeiling":174,
-      "priceFloor":143
-    }, 
-    {
-      "ticker":"1475.TW",
-      "description":"業旺",
-      "priceCeiling":69.3,
-      "priceFloor":53.4
-    }, 
-    {
-      "ticker":"1905.TW",
-      "description":"華紙",
-      "priceCeiling":30.2,
-      "priceFloor":23.5
-    },
-    {
       "ticker":"3031.TW",
       "description":"佰鴻",
       "priceCeiling":25.8,
@@ -533,18 +509,6 @@
       "description":"奇偶",
       "priceCeiling":65.5,
       "priceFloor":58.5
-    },
-    {
-      "ticker":"8932.TWO",
-      "description":"智通",
-      "priceCeiling":150,
-      "priceFloor":127
-    },
-    {
-      "ticker":"8432.TWO",
-      "description":"東生華",
-      "priceCeiling":74,
-      "priceFloor":66.3
     },
     {
       "ticker":"3035.TW",
@@ -588,6 +552,12 @@
       "priceCeiling":90,
       "priceFloor":60.7
     },
+    {
+      "ticker":"3023.TW",
+      "description":"信邦",
+      "priceCeiling":346,
+      "priceFloor":299
+    },    
     {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
