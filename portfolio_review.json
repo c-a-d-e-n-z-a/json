@@ -547,6 +547,12 @@
       "priceFloor":114
     },
     {
+      "ticker":"4401.TWO",
+      "description":"東隆興",
+      "priceCeiling":37,
+      "priceFloor":27.2
+    },    
+    {
       "ticker":"2387.TW",
       "description":"精元",
       "priceCeiling":90,
