@@ -535,12 +535,6 @@
       "priceFloor":24.7
     },
     {
-      "ticker":"6188.TWO",
-      "description":"廣明",
-      "priceCeiling":123.5,
-      "priceFloor":99.5
-    },
-    {
       "ticker":"1786.TW",
       "description":"科妍",
       "priceCeiling":134,
