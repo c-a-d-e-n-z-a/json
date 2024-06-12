@@ -557,6 +557,12 @@
       "description":"信邦",
       "priceCeiling":346,
       "priceFloor":299
+    },
+    {
+      "ticker":"6890.TW",
+      "description":"來億-KY",
+      "priceCeiling":210,
+      "priceFloor":160
     },    
     {
       "ticker":"BTC-USD",
