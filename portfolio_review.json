@@ -565,6 +565,12 @@
       "priceFloor":79.2
     },
     {
+      "ticker":"3479.TWO",
+      "description":"安勤",
+      "priceCeiling":150,
+      "priceFloor":122
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
