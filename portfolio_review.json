@@ -559,6 +559,12 @@
       "priceFloor":299
     },
     {
+      "ticker":"8936.TWO",
+      "description":"國統",
+      "priceCeiling":114,
+      "priceFloor":79.2
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
