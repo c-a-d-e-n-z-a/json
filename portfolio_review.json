@@ -565,6 +565,12 @@
       "priceFloor":79.2
     },
     {
+      "ticker":"3413.TW",
+      "description":"京鼎",
+      "priceCeiling":340,
+      "priceFloor":308
+    },    
+    {
       "ticker":"3479.TWO",
       "description":"安勤",
       "priceCeiling":150,
