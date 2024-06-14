@@ -499,28 +499,10 @@
       "priceFloor":220
     }, 
     {
-      "ticker":"3031.TW",
-      "description":"佰鴻",
-      "priceCeiling":25.8,
-      "priceFloor":21.25
-    },
-    {
-      "ticker":"3356.TW",
-      "description":"奇偶",
-      "priceCeiling":65.5,
-      "priceFloor":58.5
-    },
-    {
       "ticker":"3035.TW",
       "description":"智原",
       "priceCeiling":340,
       "priceFloor":280.5
-    },
-    {
-      "ticker":"1476.TW",
-      "description":"儒鴻",
-      "priceCeiling":570,
-      "priceFloor":490.5
     },
     {
       "ticker":"8112.TW",
