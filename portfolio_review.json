@@ -523,12 +523,6 @@
       "priceFloor":114
     },
     {
-      "ticker":"4401.TWO",
-      "description":"東隆興",
-      "priceCeiling":37,
-      "priceFloor":27.2
-    },    
-    {
       "ticker":"2387.TW",
       "description":"精元",
       "priceCeiling":90,
@@ -551,12 +545,12 @@
       "description":"京鼎",
       "priceCeiling":340,
       "priceFloor":308
-    },    
+    },
     {
-      "ticker":"3479.TWO",
-      "description":"安勤",
-      "priceCeiling":150,
-      "priceFloor":122
+      "ticker":"3583.TW",
+      "description":"辛耘",
+      "priceCeiling":476,
+      "priceFloor":386
     },
     {
       "ticker":"BTC-USD",
