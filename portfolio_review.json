@@ -507,8 +507,8 @@
     {
       "ticker":"8112.TW",
       "description":"至上",
-      "priceCeiling":107.7,
-      "priceFloor":83.7
+      "priceCeiling":93,
+      "priceFloor":79.8
     },
     {
       "ticker":"3062.TW",
