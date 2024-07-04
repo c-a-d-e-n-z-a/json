@@ -553,6 +553,12 @@
       "priceFloor":386
     },
     {
+      "ticker":"3141.TWO",
+      "description":"晶宏",
+      "priceCeiling":126,
+      "priceFloor":101
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
