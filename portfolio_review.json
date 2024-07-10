@@ -559,6 +559,12 @@
       "priceFloor":101
     },
     {
+      "ticker":"3592.TW",
+      "description":"瑞鼎",
+      "priceCeiling":470,
+      "priceFloor":405
+    },    
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
