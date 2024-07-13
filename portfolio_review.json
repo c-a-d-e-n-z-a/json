@@ -124,7 +124,7 @@
       "ticker":"FNGU",
       "description":"FANG+ Index 3X",
       "priceCeiling":560,
-      "priceFloor":323
+      "priceFloor":369
     },
     {
       "ticker":"XLF",
