@@ -121,16 +121,16 @@
       "priceFloor":60
     },
     {
+      "ticker":"FNGU",
+      "description":"FANG+ Index 3X",
+      "priceCeiling":560,
+      "priceFloor":323
+    },
+    {
       "ticker":"XLF",
       "description":"Financial Select Sector SPDR Fund",
       "priceCeiling":39,
       "priceFloor":33
-    },        
-    {
-      "ticker":"SQQQ",
-      "description":"UltraPro Short QQQ ETF",
-      "priceCeiling":25,
-      "priceFloor":5
     },
     {
       "ticker":"IWM",
@@ -151,12 +151,6 @@
       "priceFloor":40
     },
     {
-      "ticker":"GNOM",
-      "description":"Global X Genomics & Biotechnology ETF",
-      "priceCeiling":30,
-      "priceFloor":19
-    },
-    {
       "ticker":"SMH",
       "description":"VanEck Vectors Semiconductor ETF",
       "priceCeiling":300,
@@ -167,6 +161,12 @@
       "description":"Global X Lithium ETF",
       "priceCeiling":100,
       "priceFloor":50
+    },
+    {
+      "ticker":"GNOM",
+      "description":"Global X Genomics & Biotechnology ETF",
+      "priceCeiling":30,
+      "priceFloor":19
     },
     {
       "ticker":"MCHI",
@@ -227,7 +227,13 @@
       "description":"iShares MSCI Japan ETF",
       "priceCeiling":100,
       "priceFloor":50
-    },    
+    },
+    {
+      "ticker":"NVDA",
+      "description":"NVIDIA Corporation",
+      "priceCeiling":300,
+      "priceFloor":120
+    },
     {
       "ticker":"INTC",
       "description":"Intel Corporation",
@@ -259,6 +265,18 @@
       "priceFloor":1100
     },
     {
+      "ticker":"META",
+      "description":"Meta Platforms, Inc.",
+      "priceCeiling":288,
+      "priceFloor":168
+    },
+    {
+      "ticker":"AMZN",
+      "description":"Amazon.com Inc.",
+      "priceCeiling":3500,
+      "priceFloor":2000
+    },
+    {
       "ticker":"TSLA",
       "description":"Tesla, Inc.",
       "priceCeiling":500,
@@ -271,6 +289,12 @@
       "priceFloor":120
     },
     {
+      "ticker":"PLTR",
+      "description":"Palantir Technologies Inc",
+      "priceCeiling":30,
+      "priceFloor":10
+    },
+    {
       "ticker":"GRAB",
       "description":"Grab Holdings Ltd.",
       "priceCeiling":30,
@@ -281,18 +305,6 @@
       "description":"Butterfly Network Ord Shs Class A",
       "priceCeiling":40,
       "priceFloor":15
-    },
-    {
-      "ticker":"META",
-      "description":"Meta Platforms, Inc.",
-      "priceCeiling":288,
-      "priceFloor":168
-    },
-    {
-      "ticker":"PLTR",
-      "description":"Palantir Technologies Inc",
-      "priceCeiling":30,
-      "priceFloor":10
     },
     {
       "ticker":"SQ",
@@ -323,18 +335,6 @@
       "description":"Qualcomm Inc.",
       "priceCeiling":160,
       "priceFloor":60
-    },
-    {
-      "ticker":"NVDA",
-      "description":"NVIDIA Corporation",
-      "priceCeiling":300,
-      "priceFloor":120
-    },
-    {
-      "ticker":"AMZN",
-      "description":"Amazon.com Inc.",
-      "priceCeiling":3500,
-      "priceFloor":2000
     },
     {
       "ticker":"BIDU",
@@ -515,12 +515,6 @@
       "description":"建漢",
       "priceCeiling":30.5,
       "priceFloor":24.7
-    },
-    {
-      "ticker":"1786.TW",
-      "description":"科妍",
-      "priceCeiling":134,
-      "priceFloor":114
     },
     {
       "ticker":"2387.TW",
