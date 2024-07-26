@@ -93,8 +93,8 @@
     {
       "ticker":"00631L.TW",
       "description":"元大台灣50正2",
-      "priceCeiling":136,
-      "priceFloor":99
+      "priceCeiling":282,
+      "priceFloor":232
     },    
     {
       "ticker":"VOO",
