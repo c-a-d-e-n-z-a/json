@@ -511,12 +511,6 @@
       "priceFloor":79.8
     },
     {
-      "ticker":"3062.TW",
-      "description":"建漢",
-      "priceCeiling":30.5,
-      "priceFloor":24.7
-    },
-    {
       "ticker":"2387.TW",
       "description":"精元",
       "priceCeiling":90,
@@ -545,18 +539,6 @@
       "description":"辛耘",
       "priceCeiling":476,
       "priceFloor":386
-    },
-    {
-      "ticker":"3141.TWO",
-      "description":"晶宏",
-      "priceCeiling":126,
-      "priceFloor":101
-    },
-    {
-      "ticker":"3592.TW",
-      "description":"瑞鼎",
-      "priceCeiling":470,
-      "priceFloor":405
     },
     {
       "ticker":"2504.TW",
