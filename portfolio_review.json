@@ -511,12 +511,6 @@
       "priceFloor":79.8
     },
     {
-      "ticker":"2387.TW",
-      "description":"精元",
-      "priceCeiling":90,
-      "priceFloor":60.7
-    },
-    {
       "ticker":"3023.TW",
       "description":"信邦",
       "priceCeiling":346,
@@ -541,11 +535,11 @@
       "priceFloor":386
     },
     {
-      "ticker":"2504.TW",
-      "description":"國產",
-      "priceCeiling":54,
-      "priceFloor":46.2
-    },    
+      "ticker":"2360.TW",
+      "description":"致茂",
+      "priceCeiling":370,
+      "priceFloor":327
+    },
     {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
