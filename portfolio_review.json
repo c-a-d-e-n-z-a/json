@@ -157,6 +157,12 @@
       "priceFloor":150
     },
     {
+      "ticker":"IGV",
+      "description":"Tech-Software Sector ETF",
+      "priceCeiling":107,
+      "priceFloor":67
+    },    
+    {
       "ticker":"LIT",
       "description":"Global X Lithium ETF",
       "priceCeiling":100,
