@@ -547,6 +547,18 @@
       "priceFloor":327
     },
     {
+      "ticker":"8114.TW",
+      "description":"振樺電",
+      "priceCeiling":235,
+      "priceFloor":214
+    },
+    {
+      "ticker":"1709.TW",
+      "description":"和益",
+      "priceCeiling":30.5,
+      "priceFloor":24.5
+    },    
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
