@@ -103,6 +103,12 @@
       "priceFloor":386
     }, 
     {
+      "ticker":"SPMO",
+      "description":"Invesco S&P 500 Momentum ETF",
+      "priceCeiling":108.8,
+      "priceFloor":90.8
+    }, 
+    {
       "ticker":"QQQ",
       "description":"Invesco NASDAQ QQQ Trust",
       "priceCeiling":400,
