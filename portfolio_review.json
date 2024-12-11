@@ -577,6 +577,12 @@
       "priceFloor":17.95
     },
     {
+      "ticker":"2342.TW",
+      "description":"茂矽",
+      "priceCeiling":42,
+      "priceFloor":35.15
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
