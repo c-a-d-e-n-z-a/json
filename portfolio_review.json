@@ -563,7 +563,19 @@
       "description":"樺漢",
       "priceCeiling":362,
       "priceFloor":296
-    },    
+    },
+    {
+      "ticker":"6752.TWO",
+      "description":"叡揚",
+      "priceCeiling":206,
+      "priceFloor":152
+    },
+    {
+      "ticker":"2801.TW",
+      "description":"彰銀",
+      "priceCeiling":20.7,
+      "priceFloor":17.95
+    },
     {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
