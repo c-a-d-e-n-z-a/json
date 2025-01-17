@@ -193,10 +193,10 @@
       "priceFloor":30
     },    
     {
-      "ticker":"INDA",
-      "description":"iShares MSCI India ETF",
-      "priceCeiling":50,
-      "priceFloor":30
+      "ticker":"FLIN",
+      "description":"Franklin FTSE India ETF",
+      "priceCeiling":42.3,
+      "priceFloor":36.6
     },
     {
       "ticker":"IEF",
