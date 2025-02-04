@@ -319,7 +319,7 @@
       "priceFloor":15
     },
     {
-      "ticker":"SQ",
+      "ticker":"XYZ",
       "description":"Square Inc",
       "priceCeiling":250,
       "priceFloor":100
