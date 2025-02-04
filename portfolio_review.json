@@ -507,8 +507,8 @@
     {
       "ticker":"5278.TWO",
       "description":"尚凡",
-      "priceCeiling":287,
-      "priceFloor":220
+      "priceCeiling":50,
+      "priceFloor":34.2
     }, 
     {
       "ticker":"3035.TW",
