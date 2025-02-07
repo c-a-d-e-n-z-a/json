@@ -595,6 +595,12 @@
       "priceFloor":35.15
     },
     {
+      "ticker":"1712.TW",
+      "description":"興農",
+      "priceCeiling":51,
+      "priceFloor":46
+    },
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
