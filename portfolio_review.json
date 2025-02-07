@@ -509,7 +509,19 @@
       "description":"尚凡",
       "priceCeiling":50,
       "priceFloor":34.2
-    }, 
+    },
+    {
+      "ticker":"6763.TWO",
+      "description":"綠界",
+      "priceCeiling":90,
+      "priceFloor":65
+    },
+    {
+      "ticker":"3532.TW",
+      "description":"台勝科",
+      "priceCeiling":160,
+      "priceFloor":85
+    },
     {
       "ticker":"3035.TW",
       "description":"智原",
