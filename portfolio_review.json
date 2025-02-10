@@ -583,10 +583,16 @@
       "priceFloor":152
     },
     {
-      "ticker":"2801.TW",
-      "description":"彰銀",
-      "priceCeiling":20.7,
-      "priceFloor":17.95
+      "ticker":"3379.TWO",
+      "description":彬台",
+      "priceCeiling":61,
+      "priceFloor":54.4
+    },
+    {
+      "ticker":"1799.TWO",
+      "description":易威",
+      "priceCeiling":98,
+      "priceFloor":60.3
     },
     {
       "ticker":"2342.TW",
