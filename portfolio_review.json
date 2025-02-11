@@ -357,8 +357,8 @@
     {
       "ticker":"2454.TW",
       "description":"聯發科",
-      "priceCeiling":1380,
-      "priceFloor":1080
+      "priceCeiling":1700,
+      "priceFloor":1410
     },
     {
       "ticker":"2330.TW",
