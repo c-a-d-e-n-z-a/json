@@ -584,13 +584,13 @@
     },
     {
       "ticker":"3379.TWO",
-      "description":彬台",
+      "description":"彬台",
       "priceCeiling":61,
       "priceFloor":54.4
     },
     {
       "ticker":"1799.TWO",
-      "description":易威",
+      "description":"易威",
       "priceCeiling":98,
       "priceFloor":62.3
     },
