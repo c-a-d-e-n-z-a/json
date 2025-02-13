@@ -577,12 +577,6 @@
       "priceFloor":296
     },
     {
-      "ticker":"6752.TWO",
-      "description":"叡揚",
-      "priceCeiling":206,
-      "priceFloor":152
-    },
-    {
       "ticker":"3379.TWO",
       "description":"彬台",
       "priceCeiling":61,
