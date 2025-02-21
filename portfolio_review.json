@@ -595,10 +595,10 @@
       "priceFloor":35.15
     },
     {
-      "ticker":"1712.TW",
-      "description":"興農",
-      "priceCeiling":51,
-      "priceFloor":46
+      "ticker":"8089.TWO",
+      "description":"康全電訊",
+      "priceCeiling":98.6,
+      "priceFloor":68.7
     },
     {
       "ticker":"BTC-USD",
