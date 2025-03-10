@@ -151,12 +151,6 @@
       "priceFloor":42.3
     },
     {
-      "ticker":"REZ",
-      "description":"iShares Residential and Multisector Real Estate ETF",
-      "priceCeiling":97,
-      "priceFloor":77
-    },    
-    {
       "ticker":"ARKK",
       "description":"ARK Innovation ETF",
       "priceCeiling":180,
@@ -174,7 +168,6 @@
       "priceCeiling":107,
       "priceFloor":67
     },    
-
     {
       "ticker":"GNOM",
       "description":"Global X Genomics & Biotechnology ETF",
