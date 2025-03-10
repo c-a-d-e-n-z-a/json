@@ -111,8 +111,8 @@
     {
       "ticker":"QQQ",
       "description":"Invesco NASDAQ QQQ Trust",
-      "priceCeiling":400,
-      "priceFloor":200
+      "priceCeiling":535,
+      "priceFloor":485
     },
     {
       "ticker":"QLD",
@@ -123,26 +123,26 @@
     {
       "ticker":"TQQQ",
       "description":"ProShares UltraPro QQQ",
-      "priceCeiling":150,
-      "priceFloor":60
+      "priceCeiling":86,
+      "priceFloor":66
     },
     {
-      "ticker":"FNGU",
+      "ticker":"FNGA",
       "description":"FANG+ Index 3X",
-      "priceCeiling":560,
-      "priceFloor":369
+      "priceCeiling":633,
+      "priceFloor":422
     },
     {
       "ticker":"XLF",
       "description":"Financial Select Sector SPDR Fund",
-      "priceCeiling":39,
-      "priceFloor":33
+      "priceCeiling":53,
+      "priceFloor":46
     },
     {
       "ticker":"IWM",
       "description":"iShares Russell 2000 ETF",
-      "priceCeiling":195,
-      "priceFloor":165
+      "priceCeiling":238,
+      "priceFloor":208
     },
     {
       "ticker":"URTY",
@@ -159,8 +159,8 @@
     {
       "ticker":"SMH",
       "description":"VanEck Vectors Semiconductor ETF",
-      "priceCeiling":300,
-      "priceFloor":150
+      "priceCeiling":256,
+      "priceFloor":216
     },
     {
       "ticker":"IGV",
@@ -177,14 +177,14 @@
     {
       "ticker":"MCHI",
       "description":"iShares MSCI China ETF",
-      "priceCeiling":50.5,
-      "priceFloor":40.2
+      "priceCeiling":62,
+      "priceFloor":54
     },
     {
       "ticker":"KWEB",
       "description":"KraneShares CSI China Internet ETF",
-      "priceCeiling":90,
-      "priceFloor":30
+      "priceCeiling":51,
+      "priceFloor":33
     },
     {
       "ticker":"REZ",
@@ -196,7 +196,7 @@
       "ticker":"ITB",
       "description":"iShares U.S. Home Construction ETF",
       "priceCeiling":128,
-      "priceFloor"98
+      "priceFloor":98
     },
     {
       "ticker":"FLIN",
