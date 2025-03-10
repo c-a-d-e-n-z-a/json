@@ -151,6 +151,12 @@
       "priceFloor":42.3
     },
     {
+      "ticker":"REZ",
+      "description":"iShares Residential and Multisector Real Estate ETF",
+      "priceCeiling":97,
+      "priceFloor":77
+    },    
+    {
       "ticker":"ARKK",
       "description":"ARK Innovation ETF",
       "priceCeiling":180,
@@ -168,12 +174,7 @@
       "priceCeiling":107,
       "priceFloor":67
     },    
-    {
-      "ticker":"LIT",
-      "description":"Global X Lithium ETF",
-      "priceCeiling":100,
-      "priceFloor":50
-    },
+
     {
       "ticker":"GNOM",
       "description":"Global X Genomics & Biotechnology ETF",
@@ -191,7 +192,19 @@
       "description":"KraneShares CSI China Internet ETF",
       "priceCeiling":90,
       "priceFloor":30
-    },    
+    },
+    {
+      "ticker":"REZ",
+      "description":"iShares Residential and Multisector Real Estate ETF",
+      "priceCeiling":97,
+      "priceFloor":77
+    },
+    {
+      "ticker":"ITB",
+      "description":"iShares U.S. Home Construction ETF",
+      "priceCeiling":128,
+      "priceFloor"98
+    },
     {
       "ticker":"FLIN",
       "description":"Franklin FTSE India ETF",
@@ -204,12 +217,6 @@
       "priceCeiling":136,
       "priceFloor":106
     },
-    {
-      "ticker":"TMF",
-      "description":"Direxion Daily 20+ Year Treasury Bull 3X Shares",
-      "priceCeiling":23,
-      "priceFloor":7
-    }, 
     {
       "ticker":"USL",
       "description":"United States 12 Month Oil Fund LP",
