@@ -385,22 +385,10 @@
       "priceFloor":2800
     },
     {
-      "ticker":"5871.TW",
-      "description":"中租-KY",
-      "priceCeiling":150,
-      "priceFloor":60
-    },
-    {
       "ticker":"2317.TW",
       "description":"鴻海",
       "priceCeiling":120,
       "priceFloor":80
-    },
-    {
-      "ticker":"3105.TWO",
-      "description":"穩懋",
-      "priceCeiling":280,
-      "priceFloor":200
     },
     {
       "ticker":"6446.TW",
@@ -499,88 +487,10 @@
       "priceFloor":137
     },
     {
-      "ticker":"8996.TW",
-      "description":"高力",
-      "priceCeiling":447,
-      "priceFloor":271
-    },
-    {
       "ticker":"5278.TWO",
       "description":"尚凡",
       "priceCeiling":50,
       "priceFloor":34.2
-    },
-    {
-      "ticker":"6763.TWO",
-      "description":"綠界",
-      "priceCeiling":90,
-      "priceFloor":65
-    },
-    {
-      "ticker":"3532.TW",
-      "description":"台勝科",
-      "priceCeiling":160,
-      "priceFloor":85
-    },
-    {
-      "ticker":"3035.TW",
-      "description":"智原",
-      "priceCeiling":340,
-      "priceFloor":280.5
-    },
-    {
-      "ticker":"8112.TW",
-      "description":"至上",
-      "priceCeiling":93,
-      "priceFloor":79.8
-    },
-    {
-      "ticker":"3023.TW",
-      "description":"信邦",
-      "priceCeiling":346,
-      "priceFloor":299
-    },
-    {
-      "ticker":"8936.TWO",
-      "description":"國統",
-      "priceCeiling":114,
-      "priceFloor":79.2
-    },
-    {
-      "ticker":"3413.TW",
-      "description":"京鼎",
-      "priceCeiling":340,
-      "priceFloor":308
-    },
-    {
-      "ticker":"3583.TW",
-      "description":"辛耘",
-      "priceCeiling":476,
-      "priceFloor":386
-    },
-    {
-      "ticker":"2360.TW",
-      "description":"致茂",
-      "priceCeiling":370,
-      "priceFloor":327
-    },
-    {
-      "ticker":"8114.TW",
-      "description":"振樺電",
-      "priceCeiling":235,
-      "priceFloor":214
-    },
-    {
-      "ticker":"6414.TW",
-      "description":"樺漢",
-      "priceCeiling":362,
-      "priceFloor":296
-    },
-    {
-      "ticker":"3379.TWO",
-      "description":"彬台",
-      "priceCeiling":61,
-      "priceFloor":54.4
     },
     {
       "ticker":"1799.TWO",
