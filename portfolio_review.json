@@ -475,12 +475,6 @@
       "priceFloor":80
     },
     {
-      "ticker":"6789.TW",
-      "description":"采鈺",
-      "priceCeiling":260,
-      "priceFloor":203
-    },
-    {
       "ticker":"6235.TW",
       "description":"華孚",
       "priceCeiling":163,
@@ -491,18 +485,6 @@
       "description":"尚凡",
       "priceCeiling":50,
       "priceFloor":34.2
-    },
-    {
-      "ticker":"1799.TWO",
-      "description":"易威",
-      "priceCeiling":98,
-      "priceFloor":62.3
-    },
-    {
-      "ticker":"8089.TWO",
-      "description":"康全電訊",
-      "priceCeiling":98.6,
-      "priceFloor":68.7
     },
     {
       "ticker":"BTC-USD",
