@@ -127,10 +127,10 @@
       "priceFloor":66
     },
     {
-      "ticker":"FNGA",
+      "ticker":"FNGU",
       "description":"FANG+ Index 3X",
-      "priceCeiling":633,
-      "priceFloor":422
+      "priceCeiling":24,
+      "priceFloor":11
     },
     {
       "ticker":"XLF",
