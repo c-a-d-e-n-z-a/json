@@ -493,10 +493,10 @@
       "priceFloor":863
     },
     {
-      "ticker":"7822.TWO",
+      "ticker":"7822.TW",
       "description":"倍利科",
-      "priceCeiling":808,
-      "priceFloor":712
+      "priceCeiling":2100,
+      "priceFloor":1400
     },
     {
       "ticker":"7776.TWO",
