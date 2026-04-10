@@ -523,6 +523,12 @@
       "priceFloor":353
     },
     {
+      "ticker":"2337.TW",
+      "description":"旺宏",
+      "priceCeiling":300,
+      "priceFloor":138
+    },    
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
