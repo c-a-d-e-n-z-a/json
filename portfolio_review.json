@@ -353,7 +353,13 @@
       "description":"Destiny Tech100",
       "priceCeiling":32,
       "priceFloor":21
-    },    
+    },
+    {
+      "ticker":"ALLO",
+      "description":"Allogene Therapeutics",
+      "priceCeiling":5.88,
+      "priceFloor":2.33
+    },
     {
       "ticker":"BIDU",
       "description":"Baidu Inc",
@@ -473,12 +479,6 @@
       "description":"錼創科技",
       "priceCeiling":108,
       "priceFloor":80
-    },
-    {
-      "ticker":"5278.TWO",
-      "description":"尚凡",
-      "priceCeiling":50,
-      "priceFloor":34.2
     },
     {
       "ticker":"8299.TWO",
