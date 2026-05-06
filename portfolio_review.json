@@ -527,7 +527,13 @@
       "description":"旺宏",
       "priceCeiling":300,
       "priceFloor":138
-    },    
+    },
+    {
+      "ticker":"8996.TW",
+      "description":"高力",
+      "priceCeiling":2000,
+      "priceFloor":1170
+    },        
     {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
