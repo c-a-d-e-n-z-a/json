@@ -533,7 +533,13 @@
       "description":"高力",
       "priceCeiling":2000,
       "priceFloor":1170
-    },        
+    },
+    {
+      "ticker":"3653.TW",
+      "description":"健策",
+      "priceCeiling":5800,
+      "priceFloor":3500
+    },
     {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
@@ -545,10 +551,6 @@
     {
       "ticker":"BNB-USD",
       "description":"BinanceCoin USD"
-    },
-    {
-      "ticker":"SOL-USD",
-      "description":"Solana USD"
     }
   ],
 
