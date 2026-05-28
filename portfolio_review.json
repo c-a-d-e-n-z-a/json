@@ -121,6 +121,12 @@
       "priceFloor":98
     },
     {
+      "ticker":"GLD",
+      "description":"SPRD Gold Shares",
+      "priceCeiling":414,
+      "priceFloor":367
+    },
+    {
       "ticker":"TQQQ",
       "description":"ProShares UltraPro QQQ",
       "priceCeiling":86,
