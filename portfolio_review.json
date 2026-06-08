@@ -157,6 +157,12 @@
       "priceFloor":42.3
     },
     {
+      "ticker":"DRAM",
+      "description":"Roundhill Memory ETF",
+      "priceCeiling":68,
+      "priceFloor":54
+    },
+    {
       "ticker":"ARKK",
       "description":"ARK Innovation ETF",
       "priceCeiling":180,
