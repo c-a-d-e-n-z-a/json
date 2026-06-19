@@ -553,6 +553,12 @@
       "priceFloor":3500
     },
     {
+      "ticker":"ON",
+      "description":"ON Semiconductor",
+      "priceCeiling":134,
+      "priceFloor":114
+    },    
+    {
       "ticker":"BTC-USD",
       "description":"Bitcoin USD"
     },
