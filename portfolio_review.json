@@ -565,10 +565,6 @@
     {
       "ticker":"ETH-USD",
       "description":"ETC-USD"
-    },
-    {
-      "ticker":"BNB-USD",
-      "description":"BinanceCoin USD"
     }
   ],
 
