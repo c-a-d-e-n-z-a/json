@@ -49,6 +49,12 @@
       "priceFloor":0.22
     },
     {
+      "ticker":"MYR=X",
+      "description":"USD/MYR",
+      "priceCeiling":4.8,
+      "priceFloor":3.8
+    },    
+    {
       "ticker":"^GSPC",
       "description":"S&P 500",
       "priceCeiling":4000,
@@ -149,12 +155,6 @@
       "description":"iShares Russell 2000 ETF",
       "priceCeiling":238,
       "priceFloor":208
-    },
-    {
-      "ticker":"URTY",
-      "description":"Proshare Utra Russell 2000 ETF",
-      "priceCeiling":72.3,
-      "priceFloor":42.3
     },
     {
       "ticker":"DRAM",
@@ -485,12 +485,6 @@
       "description":"美團-W",
       "priceCeiling":300,
       "priceFloor":100
-    },
-    {
-      "ticker":"6854.TW",
-      "description":"錼創科技",
-      "priceCeiling":108,
-      "priceFloor":80
     },
     {
       "ticker":"8299.TWO",
