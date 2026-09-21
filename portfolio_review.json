@@ -658,7 +658,7 @@
       "ticker": "7887.TWO",
       "description": "宇川精材",
       "priceFloor": 165,
-      "priceCeiling": 311
+      "priceCeiling": 300
     }
   ],
   "stockCheckingRule": {
