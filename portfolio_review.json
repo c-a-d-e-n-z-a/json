@@ -179,12 +179,6 @@
       "ticker": "^VXN"
     },
     {
-      "description": "滬深300",
-      "priceCeiling": 3968,
-      "priceFloor": 3398,
-      "ticker": "000300.SS"
-    },
-    {
       "description": "元大台灣50",
       "priceCeiling": 90,
       "priceFloor": 40,
@@ -655,10 +649,10 @@
       "ticker": "ETH-USD"
     },
     {
-      "ticker": "7887.TWO",
       "description": "宇川精材",
+      "priceCeiling": 300,
       "priceFloor": 165,
-      "priceCeiling": 300
+      "ticker": "7887.TWO"
     }
   ],
   "stockCheckingRule": {
