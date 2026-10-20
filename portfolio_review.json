@@ -186,8 +186,8 @@
     },
     {
       "description": "元大台灣50正2",
-      "priceCeiling": 282,
-      "priceFloor": 232,
+      "priceCeiling": 42.2,
+      "priceFloor": 36.2,
       "ticker": "00631L.TW"
     },
     {
