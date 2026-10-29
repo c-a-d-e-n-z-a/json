@@ -653,6 +653,12 @@
       "priceCeiling": 300,
       "priceFloor": 165,
       "ticker": "7887.TWO"
+    },
+    {
+      "ticker": "8081.TW",
+      "description": "致新",
+      "priceFloor": 271,
+      "priceCeiling": 315
     }
   ],
   "stockCheckingRule": {
