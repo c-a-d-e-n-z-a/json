@@ -126,20 +126,20 @@
     },
     {
       "description": "USD/TWD",
-      "priceCeiling": 33.5,
-      "priceFloor": 28.5,
-      "ticker": "TWD=X"
+      "priceCeiling": 32.5,
+      "priceFloor": 31.5,
+      "ticker": "USDTWD=X"
     },
     {
       "description": "USD/JPY",
-      "priceCeiling": 130,
-      "priceFloor": 100,
-      "ticker": "JPY=X"
+      "priceCeiling": 160,
+      "priceFloor": 140,
+      "ticker": "USDJPY=X"
     },
     {
       "description": "JPY/TWD",
-      "priceCeiling": 0.28,
-      "priceFloor": 0.22,
+      "priceCeiling": 0.22,
+      "priceFloor": 0.2,
       "ticker": "JPYTWD=X"
     },
     {
@@ -655,10 +655,10 @@
       "ticker": "7887.TWO"
     },
     {
-      "ticker": "8081.TW",
       "description": "致新",
+      "priceCeiling": 315,
       "priceFloor": 271,
-      "priceCeiling": 315
+      "ticker": "8081.TW"
     }
   ],
   "stockCheckingRule": {
