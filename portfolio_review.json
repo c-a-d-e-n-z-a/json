@@ -659,6 +659,12 @@
       "priceCeiling": 315,
       "priceFloor": 271,
       "ticker": "8081.TW"
+    },
+    {
+      "ticker": "FNGG",
+      "description": "FANG Bull 2X ETF",
+      "priceFloor": 220,
+      "priceCeiling": 280
     }
   ],
   "stockCheckingRule": {
