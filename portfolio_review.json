@@ -667,16 +667,22 @@
       "ticker": "FNGG"
     },
     {
-      "ticker": "SPCX",
       "description": "SpaceX",
+      "priceCeiling": 200,
       "priceFloor": 125,
-      "priceCeiling": 200
+      "ticker": "SPCX"
     },
     {
       "description": "Anthropic",
       "priceCeiling": 166,
       "priceFloor": 83,
       "ticker": "ANT"
+    },
+    {
+      "ticker": "CIBR",
+      "description": "Cybersecurity ETF",
+      "priceFloor": 88,
+      "priceCeiling": 108
     }
   ],
   "stockCheckingRule": {
