@@ -667,10 +667,16 @@
       "ticker": "FNGG"
     },
     {
-      "ticker": "ANT",
+      "ticker": "SPCX",
+      "description": "SpaceX",
+      "priceFloor": 125,
+      "priceCeiling": 200
+    },
+    {
       "description": "Anthropic",
+      "priceCeiling": 166,
       "priceFloor": 83,
-      "priceCeiling": 166
+      "ticker": "ANT"
     }
   ],
   "stockCheckingRule": {
