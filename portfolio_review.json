@@ -210,8 +210,8 @@
     },
     {
       "description": "ProShares Ultra QQQ",
-      "priceCeiling": 135,
-      "priceFloor": 98,
+      "priceCeiling": 100,
+      "priceFloor": 72,
       "ticker": "QLD"
     },
     {
@@ -679,10 +679,10 @@
       "ticker": "ANT"
     },
     {
-      "ticker": "CIBR",
       "description": "Cybersecurity ETF",
+      "priceCeiling": 108,
       "priceFloor": 88,
-      "priceCeiling": 108
+      "ticker": "CIBR"
     }
   ],
   "stockCheckingRule": {
